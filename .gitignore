@@ -1,0 +1,13 @@
+# Entorno virtual de Python
+venv/
+
+# Carpeta de instancia con la base de datos y futuros secretos
+instance/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración del editor de código
+.vscode/
+.idea/
